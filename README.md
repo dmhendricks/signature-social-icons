@@ -1,6 +1,6 @@
 # E-mail Signature Social Icons
 
-I needed a reliable place to store social media icons for my e-mail signature ([example](https://rawcdn.githack.com/dmhendricks/signature-social-icons/5da54348df8f0ec4b3148938c7b5b22e3c7792a1/signature-example.html)) and be linkable via free CDN ([jsDelivr](https://www.jsdelivr.com/?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=dmhendricks%2Fsignature-social-icons)). Current icon set provided by [Tom](http://tomswebspace.com/round-social-media-icons/?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=dmhendricks%2Fsignature-social-icons).
+I needed a reliable place to store social media icons for my e-mail signature ([example](https://rawcdn.githack.com/dmhendricks/signature-social-icons/85c0bc02d99b57c8409829f726acf68d5f620de4/signature-example.html)) and be linkable via free CDN ([jsDelivr](https://www.jsdelivr.com/?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=dmhendricks%2Fsignature-social-icons)). Current icon set provided by [Tom](http://tomswebspace.com/round-social-media-icons/?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=dmhendricks%2Fsignature-social-icons).
 
 Perhaps I will add more some day.
 
