@@ -1,6 +1,6 @@
 # E-mail Signature Social Icons
 
-I needed a reliable place to store social media icons for my e-mail signature ([example](https://rawcdn.githack.com/dmhendricks/signature-social-icons/85c0bc02d99b57c8409829f726acf68d5f620de4/signature-example.html)) and be linkable via free CDN ([jsDelivr](https://www.jsdelivr.com/?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=dmhendricks%2Fsignature-social-icons)). Current icon set provided by [Tom](http://tomswebspace.com/round-social-media-icons/?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=dmhendricks%2Fsignature-social-icons).
+I needed a reliable place to store social media icons for my e-mail signature ([example](https://rawcdn.githack.com/dmhendricks/signature-social-icons/642dde9908c197235eaf46af18b284ba10463646/signature-example.html)) and be linkable via free CDN ([jsDelivr](https://www.jsdelivr.com/?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=dmhendricks%2Fsignature-social-icons)). Current icon set provided by [Tom](http://tomswebspace.com/round-social-media-icons/?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=dmhendricks%2Fsignature-social-icons).
 
 Perhaps I will add more some day.
 
@@ -10,7 +10,7 @@ Example linking to Twitter icon via jsDelivr:
 
 ```html
 <a href="https://twitter.com/danielhendricks/">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/twitter.png" alt="Twitter" title="Twitter" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="25" height="25" />
 </a>
 ```
 
