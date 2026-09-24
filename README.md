@@ -17,5 +17,3 @@ Example linking to Twitter icon via jsDelivr:
 Replace the [icon name](https://github.com/dmhendricks/signature-social-icons/tree/master/icons/round-flat-filled/50px/) and social media link as desired.
 
 Please **DO NOT** link to the file directly on GitHub. Please use a CDN, as shown above.
-
-[![Analytics](https://ga-beacon.appspot.com/UA-126205765-1/dmhendricks/signature-social-icons?flat)](https://ga-beacon.appspot.com/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=dmhendricks%2Fsignature-social-icons)
